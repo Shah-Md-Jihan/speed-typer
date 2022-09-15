@@ -208,16 +208,22 @@ button {
 /*==================== blog page style ===================*/
 .font_color {
   color: #fff;
-  text-align: center;
 }
 
 .blog-heading {
   margin-top: 20px;
+  text-align: center;
 }
 
 .quesiton-block {
   margin-top: 20px;
   margin-bottom: 20px;
+  width: 95%;
+  background-color: #045204b8;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 15px;
+  border-radius: 5px;
 }
 
 .spcial-char {
