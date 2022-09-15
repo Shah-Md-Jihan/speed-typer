@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+
 body {
   background-image: url("./bg.png");
   background-size: cover;
@@ -202,4 +203,14 @@ button {
     grid-template-columns: 1fr;
   }
 
+}
+
+/*==================== blog page style ===================*/
+.font_color {
+  color: #fff;
+  text-align: center;
+}
+
+.blog-heading {
+  margin-top: 20px;
 }
