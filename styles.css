@@ -214,3 +214,14 @@ button {
 .blog-heading {
   margin-top: 20px;
 }
+
+.quesiton-block {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.spcial-char {
+  font-size: 20px;
+  font-weight: 600;
+  color: red;
+}
